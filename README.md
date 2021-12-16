@@ -1,6 +1,13 @@
 # PyCharm/ROS2 import wrapper.
 The repository provides us with an ability to run the same way of importing files both in PyCharm and ROS2 packages.
 
+Install:
+```
+git clone 
+cd ROS2_input
+python3 setup.py install
+'''
+
 Usage:
 You need to add these rows to the very beginning of your main function.
 ```
