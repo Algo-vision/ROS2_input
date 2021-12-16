@@ -3,9 +3,10 @@ The repository provides us with an ability to run the same way of importing file
 
 Install:
 ```
-git clone 
+git clone https://github.com/NanovelRobot/ROS2_input.git
 cd ROS2_input
 python3 setup.py install
+
 '''
 
 Usage:
