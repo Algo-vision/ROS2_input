@@ -1,5 +1,5 @@
 from distutils.core import setup
-setup(name='import_parents',
+setup(name='ROS2_import',
       version='1.0',
       py_modules=['import_parents'],
       author='Mark Levin',
