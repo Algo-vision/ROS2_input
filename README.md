@@ -4,7 +4,7 @@ The repository provides us with an ability to run the same way of importing file
 
 **Install**:
 ```
-git clone https://github.com/NanovelRobot/ROS2_input.git
+git clone https://github.com/Algo-vision/ROS2_input.git
 cd ROS2_input
 sudo python3 setup.py install
 ```
